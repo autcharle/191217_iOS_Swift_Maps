@@ -5,4 +5,4 @@ iOS Class Last Project
 
 iOS version: `at least` 13.1
 
-Built on XCode 11.3 (11C29), macOS Catalina 10.15.2
+Built on Xcode 11.3 (11C29), macOS Catalina 10.15.2
